@@ -1,9 +1,9 @@
 # Link Prediction Of the French Web Graph
 ![](https://snap.stanford.edu/node2vec/homo.png)
-###Description
+### Description
 Kaggle Competition for Link prediction in the french web graph 
 
-###Requirements
+### Requirements
 * Python 3
 * Keras
 * Node2vec
