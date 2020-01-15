@@ -10,6 +10,8 @@ Kaggle Competition for Link prediction in the french web graph
 * Networkx
 * Scikit Learn
 * Matplotlib
+* csv
+* glob
 
 ## Graph information
 ![](./images/GraphInfo.JPG)
